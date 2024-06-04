@@ -1,2 +1,5 @@
-# reading-note-n3
-Notas de lectura para mi curso lima-code-n3
+# Notas de lectura
+Para mi curso lima-code-n3
+
+## Autores
+- 
